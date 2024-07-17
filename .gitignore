@@ -1,6 +1,5 @@
-mport random 
+import random 
 Ran = random. randint(1, 6)
-print(“ random integer between 1 and 6:”,Ran)
 print(‘your number is:  ‘)
 n = int(input())
 
